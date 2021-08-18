@@ -13,3 +13,8 @@ ol {
 ol li {
     font-size: 1.5em;
 }
+.amir {
+    border: 1px solid green;
+    background-color: blue;
+    border-radius: 15px;
+}
