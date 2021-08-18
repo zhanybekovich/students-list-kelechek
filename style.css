@@ -30,3 +30,12 @@ ol li {
   padding: 5px;
   text-decoration: underline;
 }
+.custom_name{
+  color: rgb(0, 0, 0);
+  background: powderblue;
+  padding: 5px;
+  width: 260px;
+  border-radius: 10px;
+  border: 3px solid lemonchiffon;
+  text-align: center;
+}
