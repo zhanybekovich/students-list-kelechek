@@ -1,20 +1,32 @@
 body {
-    background-image: linear-gradient(to right , rgb(219, 177, 238), rgb(170, 245, 245)) ;
+  background-image: linear-gradient(
+    to right,
+    rgb(219, 177, 238),
+    rgb(170, 245, 245)
+  );
 }
 h1 {
-    font-size: 3em;
-    color: rgb(250, 125, 0);
+  font-size: 3em;
+  color: rgb(250, 125, 0);
 }
 ol {
-    border: 2px solid rgb(250, 125, 0);
-    display: inline-block;
-    padding: 3em;
+  border: 2px solid rgb(250, 125, 0);
+  display: inline-block;
+  padding: 3em;
 }
 ol li {
-    font-size: 1.5em;
+  font-size: 1.5em;
 }
 .amir {
-    border: 1px solid green;
-    background-color: blue;
-    border-radius: 15px;
+  border: 1px solid green;
+  background-color: blue;
+  border-radius: 15px;
+}
+.chyngyz {
+  border: 0;
+  border-radius: 7px;
+  background-color: rgb(5, 5, 131);
+  color: white;
+  padding: 5px;
+  text-decoration: underline;
 }
