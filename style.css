@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(to right , rgb(219, 177, 238), rgb(170, 245, 245)) ;
+}
+h1 {
+    font-size: 3em;
+    color: rgb(250, 125, 0);
+}
+ol {
+    border: 2px solid rgb(250, 125, 0);
+    display: inline-block;
+    padding: 3em;
+}
+ol li {
+    font-size: 1.5em;
+}
