@@ -39,3 +39,11 @@ ol li {
   border: 3px solid lemonchiffon;
   text-align: center;
 }
+.zulaika {
+  border: 1px solid red;
+  border-radius: 15px;
+  background-color: rgb(149, 201, 149);
+  color: blueviolet;
+  padding: 10px;
+  text-decoration: underline;
+}
