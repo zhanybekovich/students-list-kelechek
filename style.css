@@ -47,3 +47,10 @@ ol li {
   padding: 10px;
   text-decoration: underline;
 }
+.Aktan-T {
+  color: red;
+  background-color: rgb(146, 252, 146);
+  border: 1px solid blue;
+  padding: 5px;
+  border-radius: 20px;
+}
