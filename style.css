@@ -47,3 +47,15 @@ ol li {
   padding: 10px;
   text-decoration: underline;
 }
+
+.erbol {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.erbol li {
+  background-color: coral;
+  padding: 10px;
+  border-radius: 10px;
+}
