@@ -47,3 +47,11 @@ ol li {
   padding: 10px;
   text-decoration: underline;
 }
+
+.ayjan{
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  color: aquamarine;
+  background-color: rgba(129, 69, 69, 0.699);
+}
