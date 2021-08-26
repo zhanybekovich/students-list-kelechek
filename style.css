@@ -47,3 +47,19 @@ ol li {
   padding: 10px;
   text-decoration: underline;
 }
+
+.name{
+  color: white;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 30px;
+  text-align: center;
+  background-color: black;
+  cursor: pointer;
+}
+
+.name:hover{
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
