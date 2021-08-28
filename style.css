@@ -47,3 +47,10 @@ ol li {
   padding: 10px;
   text-decoration: underline;
 }
+.nuskaiym {
+  border: 0;
+  border-radius: 20px;
+  background-color: rgb(156, 96, 18);
+  color: beige;
+
+}
