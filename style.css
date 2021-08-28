@@ -48,6 +48,12 @@ ol li {
   text-decoration: underline;
 }
 
+.myr{
+  background-color: red;
+  color: #FBCEB1;
+  border-radius: 15px;
+}
+
 .erbol {
   text-decoration: none;
   text-transform: uppercase;
