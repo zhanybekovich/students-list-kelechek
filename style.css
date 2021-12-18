@@ -70,6 +70,13 @@ ol li {
   text-decoration: underline;
 }
 
+.jan {
+  font-size: 25px;
+  background-color: #5F7A61;
+  color: #D5EEBB;
+  text-align: center;
+}
+
 .myr{
   background-color: red;
   color: #FBCEB1;
